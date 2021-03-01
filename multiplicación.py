@@ -1,3 +1,4 @@
+# Ejercicio de multiplicación
 a = input("Ingrese un número entero:")
 b = input("Ingrese otro número entero:")
 a = int(a)
